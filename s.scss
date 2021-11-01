@@ -1,0 +1,43 @@
+$btn-colors: (
+        "blue": #8080ff,
+        "red": #FF7F7F,
+        "yellow": #ffff99,
+        "green": #99ff99,
+        "pink": #ff99dd,
+        "grey": #d1d1e0,
+);
+
+@each $i, $value in $btn-colors {
+  @for $index from 1 through 12 {
+    .#{$i}-#{$index} {
+      background-color: lighten($value, $index * 2%);
+      @if ($index >= 2 and $index <= 12) {
+        background-color: darken($value, $index * 3);
+        @if($index == 11) {
+          border-radius: 15px;
+        } @else if ($index == 12) {
+          box-shadow: 0px 5px $value;
+        }
+      } @else if ($index == 1) {
+        background-color: transparent;
+        border: $value solid 3px;
+      }
+    }
+  }
+}
+
+
+.child {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+button {
+  font-size: 25px;
+  font-family: "Verdana", "serif";
+  margin: 10px;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}

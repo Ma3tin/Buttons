@@ -1,0 +1,394 @@
+.blue-1 {
+  background-color: #8a8aff;
+  background-color: transparent;
+  border: #8080ff solid 3px;
+}
+
+.blue-2 {
+  background-color: #9494ff;
+  background-color: #6161ff;
+}
+
+.blue-3 {
+  background-color: #9f9fff;
+  background-color: #5252ff;
+}
+
+.blue-4 {
+  background-color: #a9a9ff;
+  background-color: #4343ff;
+}
+
+.blue-5 {
+  background-color: #b3b3ff;
+  background-color: #3434ff;
+}
+
+.blue-6 {
+  background-color: #bdbdff;
+  background-color: #2424ff;
+}
+
+.blue-7 {
+  background-color: #c7c7ff;
+  background-color: #1515ff;
+}
+
+.blue-8 {
+  background-color: #d2d2ff;
+  background-color: #0606ff;
+}
+
+.blue-9 {
+  background-color: #dcdcff;
+  background-color: #0000f5;
+}
+
+.blue-10 {
+  background-color: #e6e6ff;
+  background-color: #0000e6;
+}
+
+.blue-11 {
+  background-color: #f0f0ff;
+  background-color: #0000d7;
+  border-radius: 15px;
+}
+
+.blue-12 {
+  background-color: #fafaff;
+  background-color: #0000c7;
+  box-shadow: 0px 5px #8080ff;
+}
+
+.red-1 {
+  background-color: #ff8989;
+  background-color: transparent;
+  border: #FF7F7F solid 3px;
+}
+
+.red-2 {
+  background-color: #ff9393;
+  background-color: #ff6060;
+}
+
+.red-3 {
+  background-color: #ff9e9e;
+  background-color: #ff5151;
+}
+
+.red-4 {
+  background-color: #ffa8a8;
+  background-color: #ff4242;
+}
+
+.red-5 {
+  background-color: #ffb2b2;
+  background-color: #ff3333;
+}
+
+.red-6 {
+  background-color: #ffbcbc;
+  background-color: #ff2323;
+}
+
+.red-7 {
+  background-color: #ffc6c6;
+  background-color: #ff1414;
+}
+
+.red-8 {
+  background-color: #ffd1d1;
+  background-color: #ff0505;
+}
+
+.red-9 {
+  background-color: #ffdbdb;
+  background-color: #f40000;
+}
+
+.red-10 {
+  background-color: #ffe5e5;
+  background-color: #e50000;
+}
+
+.red-11 {
+  background-color: #ffefef;
+  background-color: #d60000;
+  border-radius: 15px;
+}
+
+.red-12 {
+  background-color: #fff9f9;
+  background-color: #c60000;
+  box-shadow: 0px 5px #FF7F7F;
+}
+
+.yellow-1 {
+  background-color: #ffffa3;
+  background-color: transparent;
+  border: #ffff99 solid 3px;
+}
+
+.yellow-2 {
+  background-color: #ffffad;
+  background-color: #ffff7a;
+}
+
+.yellow-3 {
+  background-color: #ffffb8;
+  background-color: #ffff6b;
+}
+
+.yellow-4 {
+  background-color: #ffffc2;
+  background-color: #ffff5c;
+}
+
+.yellow-5 {
+  background-color: #ffffcc;
+  background-color: #ffff4d;
+}
+
+.yellow-6 {
+  background-color: #ffffd6;
+  background-color: #ffff3d;
+}
+
+.yellow-7 {
+  background-color: lightyellow;
+  background-color: #ffff2e;
+}
+
+.yellow-8 {
+  background-color: #ffffeb;
+  background-color: #ffff1f;
+}
+
+.yellow-9 {
+  background-color: #fffff5;
+  background-color: #ffff0f;
+}
+
+.yellow-10 {
+  background-color: white;
+  background-color: yellow;
+}
+
+.yellow-11 {
+  background-color: white;
+  background-color: #f0f000;
+  border-radius: 15px;
+}
+
+.yellow-12 {
+  background-color: white;
+  background-color: #e0e000;
+  box-shadow: 0px 5px #ffff99;
+}
+
+.green-1 {
+  background-color: #a3ffa3;
+  background-color: transparent;
+  border: #99ff99 solid 3px;
+}
+
+.green-2 {
+  background-color: #adffad;
+  background-color: #7aff7a;
+}
+
+.green-3 {
+  background-color: #b8ffb8;
+  background-color: #6bff6b;
+}
+
+.green-4 {
+  background-color: #c2ffc2;
+  background-color: #5cff5c;
+}
+
+.green-5 {
+  background-color: #ccffcc;
+  background-color: #4dff4d;
+}
+
+.green-6 {
+  background-color: #d6ffd6;
+  background-color: #3dff3d;
+}
+
+.green-7 {
+  background-color: #e0ffe0;
+  background-color: #2eff2e;
+}
+
+.green-8 {
+  background-color: #ebffeb;
+  background-color: #1fff1f;
+}
+
+.green-9 {
+  background-color: #f5fff5;
+  background-color: #0fff0f;
+}
+
+.green-10 {
+  background-color: white;
+  background-color: lime;
+}
+
+.green-11 {
+  background-color: white;
+  background-color: #00f000;
+  border-radius: 15px;
+}
+
+.green-12 {
+  background-color: white;
+  background-color: #00e000;
+  box-shadow: 0px 5px #99ff99;
+}
+
+.pink-1 {
+  background-color: #ffa3e0;
+  background-color: transparent;
+  border: #ff99dd solid 3px;
+}
+
+.pink-2 {
+  background-color: #ffade4;
+  background-color: #ff7ad3;
+}
+
+.pink-3 {
+  background-color: #ffb8e7;
+  background-color: #ff6bce;
+}
+
+.pink-4 {
+  background-color: #ffc2eb;
+  background-color: #ff5cc9;
+}
+
+.pink-5 {
+  background-color: #ffccee;
+  background-color: #ff4dc4;
+}
+
+.pink-6 {
+  background-color: #ffd6f1;
+  background-color: #ff3dbe;
+}
+
+.pink-7 {
+  background-color: #ffe0f5;
+  background-color: #ff2eb9;
+}
+
+.pink-8 {
+  background-color: #ffebf8;
+  background-color: #ff1fb4;
+}
+
+.pink-9 {
+  background-color: #fff5fc;
+  background-color: #ff0faf;
+}
+
+.pink-10 {
+  background-color: white;
+  background-color: #ff00aa;
+}
+
+.pink-11 {
+  background-color: white;
+  background-color: #f000a0;
+  border-radius: 15px;
+}
+
+.pink-12 {
+  background-color: white;
+  background-color: #e00096;
+  box-shadow: 0px 5px #ff99dd;
+}
+
+.grey-1 {
+  background-color: #d7d7e4;
+  background-color: transparent;
+  border: #d1d1e0 solid 3px;
+}
+
+.grey-2 {
+  background-color: #dddde8;
+  background-color: #bfbfd4;
+}
+
+.grey-3 {
+  background-color: #e3e3ec;
+  background-color: #b6b6ce;
+}
+
+.grey-4 {
+  background-color: #e9e9f0;
+  background-color: #acacc7;
+}
+
+.grey-5 {
+  background-color: #efeff5;
+  background-color: #a3a3c1;
+}
+
+.grey-6 {
+  background-color: #f6f6f9;
+  background-color: #9a9abb;
+}
+
+.grey-7 {
+  background-color: #fcfcfd;
+  background-color: #9191b5;
+}
+
+.grey-8 {
+  background-color: white;
+  background-color: #8888af;
+}
+
+.grey-9 {
+  background-color: white;
+  background-color: #7f7fa9;
+}
+
+.grey-10 {
+  background-color: white;
+  background-color: #7676a2;
+}
+
+.grey-11 {
+  background-color: white;
+  background-color: #6c6c9c;
+  border-radius: 15px;
+}
+
+.grey-12 {
+  background-color: white;
+  background-color: #646495;
+  box-shadow: 0px 5px #d1d1e0;
+}
+
+.child {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+button {
+  font-size: 25px;
+  font-family: "Verdana", "serif";
+  margin: 10px;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=s.css.map */
